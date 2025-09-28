@@ -1,1 +1,1 @@
-# More development comming soon!🍂
+# More telecoms & networks development comming soon!🍂
