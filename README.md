@@ -1,4 +1,4 @@
-<img style="border-radius:1.5%" src="https://i.pinimg.com/736x/0b/00/56/0b005691d7d6ed482a83dbb2d29c8365.jpg" alt="Banner" width="100%" />
+<img style="border-radius:1.5%" src="[https://i.pinimg.com/736x/0b/00/56/0b005691d7d6ed482a83dbb2d29c8365.jpg](https://w0.peakpx.com/wallpaper/891/845/HD-wallpaper-programming-code-minimalism-resolution-minimalist-programmer.jpg)" alt="Banner" width="100%" />
 
 # 👋 Hi there, I'm Fabrizio
 <p align="center">
@@ -51,9 +51,9 @@ I'm constantly improving my technical skills through **academic projects**, **se
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *soon*  
-- 📧 Email: *optional*  
-- 🌐 GitHub: **@TU_USUARIO**
+- 💼 LinkedIn: https://www.linkedin.com/in/fabrizio-monta%C3%B1ez-30b254368/
+- 📧 Email: **andrewmp2122@gmail.com**  
+- 🌐 GitHub: **Montagfth**
 
 ---
 
