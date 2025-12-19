@@ -1,5 +1,3 @@
-<img style="border-radius:1.5%" src="https://w0.peakpx.com/wallpaper/891/845/HD-wallpaper-programming-code-minimalism-resolution-minimalist-programmer.jpg" alt="Banner" width="100%" />
-
 # 👋 Hi there, I'm Fabrizio
 <p align="center">
   🎓 <strong>Software Engineering Student</strong> 💻
