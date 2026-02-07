@@ -55,4 +55,4 @@ I'm constantly improving my technical skills through **academic projects**, **se
 
 ---
 
-⭐ *Always open to learning, collaborating, and improving.*
+⚙️ *This World is in Evolution*
