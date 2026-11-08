@@ -127,5 +127,5 @@ I'm continuously developing my technical skills through practical labs, certific
 ---
 
 <p align="center">
-  <i>Always learning, building, and exploring how technology connects the world.</i>
+  <i>💻 This world is in evolution ⚙️</i>
 </p>
