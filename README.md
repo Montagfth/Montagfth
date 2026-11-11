@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software Engineering Student</strong><br/>
   Networking | Cloud Computing | IT Infrastructure<br/>
-  Currently: **IT Support L1/L2 | Overskull SAC**
+  Currently: <strong>IT Support L1/L2 | Overskull S.A.C</strong>
 </p>
 
 <p align="center">
